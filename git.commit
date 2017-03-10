@@ -1,0 +1,9 @@
+#!/bin/bash
+git init
+git add -A
+git commit -m "first commit"
+git push
+
+#git remote add origin https://github.com/KMKgit/ML.git
+#git push -u origin master
+#why!!
