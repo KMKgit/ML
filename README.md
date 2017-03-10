@@ -1,5 +1,4 @@
-# ML 
-KMK's machine learning git hub for study
-=
-#kmkidea.tistory.com
-=
+# Wellcome 
+KMK's github for ML study
+
+# kmkidea.tistory.com
